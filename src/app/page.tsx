@@ -37,6 +37,25 @@ export default function Home() {
           height={37}
           priority
         />
+        <Image
+           src='https://api.moscowrestaurant.keep-calm.ru/storage/1/image/jpeg/kBkjPedMRmy8RcKFVbNXXeI6RvQ0QUY4cjLLp6pV.jpeg/jpg/jpe/jfif'
+           alt='api.moscowrestaurant.keep-calm.ru'
+           width={400}
+           height={300}
+        />
+        <Image
+           src='https://fakestoreapi.com/img/81fPKd-2AYL._AC_SL1500_.jpg'
+           alt='fakestoreapi.com'
+           width={400}
+           height={300}
+        />
+        <Image
+           src='https://lambic.ru/storage/2023/02/02/1d027faa7ed35f19dd495d38be5bec3b7989bd28.webp'
+           alt='lambic.ru'
+           width={400}
+           height={300}
+        />
+
       </div>
 
       <div className={styles.grid}>
